@@ -1,8 +1,3 @@
-# 👩🏻‍💻 Giovanna Paes
-
-E s t u d a n d o . . .
-e jogando
-
 ---
 
 ## 🚀 Sobre mim

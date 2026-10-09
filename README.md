@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1b1035&height=220&section=header&text=Giovanna%20Paes&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=010738&height=220&section=header&text=Giovanna%20Paes&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 </div>
 
@@ -12,9 +12,9 @@ Estudante de Engenharia da Computação, atualmente focada no desenvolvimento de
 
 <br/>
 
-<div align="center">
-  <img src="https://img1.picmix.com/display/stamp/thumb/2844729.gif" width="220" alt="Pixel Art PC" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gigi-paes/gigi-paes/main/pc.gif" width="300" alt="gif">
+</p>
 
 <br/>
 
@@ -48,4 +48,4 @@ Estudante de Engenharia da Computação, atualmente focada no desenvolvimento de
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1b1035&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=010738&height=100&section=footer" width="100%"/>
